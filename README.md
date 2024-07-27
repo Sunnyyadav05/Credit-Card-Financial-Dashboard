@@ -5,8 +5,7 @@ The goal is to provide comprehensive insights into spending patterns, transactio
 
 **Components:**
 - **MySQL:** Manages and stores transaction data. Performs detailed queries to analyze spending patterns, categorize expenses, and generate financial summaries.
-- **Power BI:** Creates interactive dashboards and reports that visualize spending trends, credit utilization, and budget adherence.
--               Enables users to explore data and generate customized reports.
+- **Power BI:** Creates interactive dashboards and reports that visualize spending trends, credit utilization, and budget adherence. Enables users to explore data and generate customized reports.
 
 **Benefits:**
 - **Enhanced Financial Insight:** Provides a clear view of spending habits and credit card usage.
