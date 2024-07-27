@@ -1,6 +1,6 @@
-## Project: Credit Card Financial Report
+## Project: Credit Card Financial Dashboard
 
-**Credit Card Financial Report** is a project designed to analyze and visualize financial data related to credit card transactions. The goal is to provide comprehensive insights into spending patterns, transaction trends, and overall financial health using advanced data analysis and visualization techniques.
+**Credit Card Financial Dashboard** is a project designed to analyze and visualize financial data related to credit card transactions. The goal is to provide comprehensive insights into spending patterns, transaction trends, and overall financial health using advanced data analysis and visualization techniques.
 
 ### Tools Used
 
